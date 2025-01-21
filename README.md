@@ -6,3 +6,6 @@ I am working on making a personal website that includes everything me, my extrac
 
 ## Link
 (Building)
+
+## Resources
+https://vercel.com/new?teamSlug=seth-bakers-projects
