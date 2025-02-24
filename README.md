@@ -5,7 +5,8 @@ I am working on making a personal website that includes everything me, my extrac
 
 
 ## Link
-(Building)
+https://bakersblog.me/
 
 ## Resources
-https://vercel.com/new?teamSlug=seth-bakers-projects
+https://hpanel.hostinger.com/
+https://wordpress.org/
