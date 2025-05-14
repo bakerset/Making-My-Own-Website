@@ -3,9 +3,6 @@
 This is a responsive, interactive 3D portfolio built using HTML, CSS, JavaScript, and Three.js to represent my personal brand and digital identity.
 
 🔗 **Live Preview**: https://bakersblog.me/
-📸 **Screenshot**:  
-![Portfolio Preview](./pic-for-website.jpg)
-
 ---
 
 ## 📂 Project Structure
